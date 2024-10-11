@@ -1,16 +1,6 @@
-# getdata_http
+This is an app to get data from jsonplaceholder api in the form of comments and view them in our flutter app.
 
-A new Flutter project.
+Here`s the screenshot.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1728639454](https://github.com/user-attachments/assets/431da452-5e25-4d79-a237-c9eaca44f042)
